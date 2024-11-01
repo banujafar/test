@@ -3,15 +3,15 @@
       "slug": "resources-page",
       "title": "First Post Title",
       "description": "This is the description for the first post.",
-      "image": "untitled-design.png",
+      "image": "example-image_v2.png",
       "date_created": "2024-01-01T00:00:00Z",
       "body": "This is the body content of the first post."
     },
     {
-      "slug": "next-new-features",
+      "slug": "how-can-status-pages-help-you-communicate-with-customers-during-disruptions",
       "title": "Second Post Title",
       "description": "This is the description for the second post.",
-      "image": "untitled-design.png",
+      "image": "example-image_v2.png",
       "date_created": "2024-02-01T00:00:00Z",
       "body": "This is the body content of the second post."
     },
